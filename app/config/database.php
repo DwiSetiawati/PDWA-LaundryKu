@@ -1,6 +1,6 @@
 <?php
 // ============================================================
-//  app/config/database.php — Koneksi Database (baca dari .env)
+//  app/config/database.php — Koneksi Database (baca dari .env)/
 // ============================================================
 
 if (!defined('DB_HOST')) {
