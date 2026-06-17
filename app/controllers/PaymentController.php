@@ -110,3 +110,4 @@ class PaymentController {
         return $this->validMethods;
     }
 }
+
